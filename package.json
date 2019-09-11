@@ -1,0 +1,27 @@
+{
+  "name": "Qorder_websocket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kir-/Qorder_websocket.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kir-/Qorder_websocket/issues"
+  },
+  "homepage": "https://github.com/kir-/Qorder_websocket#readme",
+  "dependencies": {
+    "bufferutil": "4.0.1",
+    "express": "4.17.1",
+    "utf-8-validate": "5.0.2",
+    "ws": "7.1.2"
+  }
+}
